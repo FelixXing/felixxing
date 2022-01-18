@@ -5,8 +5,6 @@ I am working on and learning:
   
   C
   
-  Java (In plan)
-  
   C# (The language I learn the first)
   
   Python
